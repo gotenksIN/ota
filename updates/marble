@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2026-05-18",
+      "datetime": "1779067772",
+      "filename": "aospa-beryl-beta-marble-20260518.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-beryl-beta-marble-20260518.zip",
+      "recovery_sha256": "6cda60af8018112924705f05d744267e4851ca5f47cd35c7744f81211f41bf2d",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-beryl-beta-marble-20260518-image.zip",
+      "fastboot_sha256": "9cbf26df76e8a91c4a464c6aa874851adf4db8bc5339bdd9a6702a98f8147828",
+      "mirror": "",
+      "telegram": "",
+      "id": "beryl-beta-1",
+      "size": "2953917486",
+      "build_type": "Beta",
+      "version_code": "1",
+      "version": "Beryl",
+      "android_version": "16",
+      "android_spl": "2026-05-05",
+      "changelog_device": "Initial beta release"
+    },
+    {
       "date": "2024-09-03",
       "datetime": "1725375627",
       "filename": "aospa-uvite-beta-marble-20240903.zip",
