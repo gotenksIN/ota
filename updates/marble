@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2026-05-21",
+      "datetime": "1779334172",
+      "filename": "aospa-beryl-beta-marble-20260518.zip",
+      "url": "https://mirror.codebucket.de/gotenks/test/aospa-beryl-beta-marble-20260518.zip",
+      "recovery_sha256": "4837f5d6a46f872dfc906868aebe175d9085d81539d84ecddf13d8327ff31eb5",
+      "fastboot": "https://mirror.codebucket.de/gotenks/test/aospa-beryl-beta-marble-20260518-image.zip",
+      "fastboot_sha256": "1c6aaf4feb8a9b988673fafd0978d287a1f66acb7759671f8d5a62583cc9a05c",
+      "mirror": "",
+      "telegram": "",
+      "id": "beryl-beta-3",
+      "size": "2953939540",
+      "build_type": "Beta",
+      "version_code": "3",
+      "version": "Beryl",
+      "android_version": "16",
+      "android_spl": "2026-05-05",
+      "changelog_device": "Third beta release"
+    },
+    {
       "date": "2026-05-19",
       "datetime": "1779154172",
       "filename": "aospa-beryl-beta-marble-20260518.zip",
