@@ -1,6 +1,25 @@
 {
   "updates": [
     {
+      "date": "2026-09-19",
+      "datetime": "1789785386",
+      "filename": "aospa-calcite-1-phone2-20260919.zip",
+      "url": "https://builds.paranoidandroid.co/aospa-calcite-1-phone2-20260919.zip",
+      "recovery_sha256": "0a2689f910826602fb1fea71463da1db9ad63f7afd34471ed5dfb973583f1c0a",
+      "fastboot": "https://builds.paranoidandroid.co/aospa-calcite-1-phone2-20260919-image.zip",
+      "fastboot_sha256": "dfc1ab913499a8286f5b740cc6a8bb2d4f9db473dd3883f4b30cf6c17dfc4239",
+      "mirror": "",
+      "telegram": "",
+      "id": "calcite-1",
+      "size": "3123821716",
+      "build_type": "Stable",
+      "version_code": "1",
+      "version": "Calcite",
+      "android_version": "17",
+      "android_spl": "2026-06-05",
+      "changelog_device": "Initial stable release"
+    },
+    {
       "date": "2024-06-24",
       "datetime": "1718795677",
       "filename": "aospa-uvite-beta-phone2-20240623-image.zip",
