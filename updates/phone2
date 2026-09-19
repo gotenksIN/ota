@@ -2,6 +2,25 @@
   "updates": [
     {
       "date": "2026-09-19",
+      "datetime": "1789794181",
+      "filename": "aospa-calcite-2-phone2-20260919.zip",
+      "url": "https://builds-staging.paranoidandroid.co/aospa-calcite-2-phone2-20260919.zip",
+      "recovery_sha256": "7110e4610c2de163e504a17b0d503b214acb56d2aa5cc75aa4c5defcb598c91b",
+      "fastboot": "https://builds-staging.paranoidandroid.co/aospa-calcite-2-phone2-20260919-image.zip",
+      "fastboot_sha256": "45b7a3f264e6a0095ee7d8e915b577fe8a6edabfd2b3415ddf5a10609cf95f16",
+      "mirror": "",
+      "telegram": "",
+      "id": "calcite-2",
+      "size": "3123821116",
+      "build_type": "Stable",
+      "version_code": "2",
+      "version": "Calcite",
+      "android_version": "17",
+      "android_spl": "2026-06-05",
+      "changelog_device": "Calcite Stable 2 release"
+    },
+    {
+      "date": "2026-09-19",
       "datetime": "1789785386",
       "filename": "aospa-calcite-1-phone2-20260919.zip",
       "url": "https://builds.paranoidandroid.co/aospa-calcite-1-phone2-20260919.zip",
